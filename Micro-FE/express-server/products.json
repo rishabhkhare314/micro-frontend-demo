@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "productName": "Apple",
+    "price": "$1.0"
+  },
+  {
+    "id": 2,
+    "productName": "bannana",
+    "price": "$2.0"
+  },
+  {
+    "id": 3,
+    "productName": "orange",
+    "price": "$3.0"
+  },
+  {
+    "id": 4,
+    "productName": "kiwi",
+    "price": "$4.0"
+  },
+  {
+    "id": 5,
+    "productName": "shimla apple",
+    "price": "$5.0"
+  },
+  {
+    "id": 6,
+    "productName": "almonds",
+    "price": "$6.0"
+  },
+  {
+    "id": 7,
+    "productName": "pista",
+    "price": "$7.0"
+  },
+  {
+    "id": 8,
+    "productName": "walnut",
+    "price": "$8.0"
+  },
+  {
+    "id": 9,
+    "productName": "Apple1",
+    "price": "$1.0"
+  },
+  {
+    "id": 10,
+    "productName": "bannana1",
+    "price": "$2.0"
+  },
+  {
+    "id": 11,
+    "productName": "orange1",
+    "price": "$3.0"
+  },
+  {
+    "id": 12,
+    "productName": "kiwi1",
+    "price": "$4.0"
+  },
+  {
+    "id": 13,
+    "productName": "shimla apple1",
+    "price": "$5.0"
+  },
+  {
+    "id": 14,
+    "productName": "almonds1",
+    "price": "$6.0"
+  },
+  {
+    "id": 15,
+    "productName": "pista1",
+    "price": "$7.0"
+  },
+  {
+    "id": 16,
+    "productName": "walnut1",
+    "price": "$8.0"
+  },
+  {
+    "id": 17,
+    "productName": "Apple2",
+    "price": "$1.0"
+  },
+  {
+    "id": 18,
+    "productName": "bannana2",
+    "price": "$2.0"
+  },
+  {
+    "id": 19,
+    "productName": "orange2",
+    "price": "$3.0"
+  },
+  {
+    "id": 20,
+    "productName": "kiwi2",
+    "price": "$4.0"
+  },
+  {
+    "id": 21,
+    "productName": "shimla apple2",
+    "price": "$5.0"
+  },
+  {
+    "id": 22,
+    "productName": "almonds2",
+    "price": "$6.0"
+  },
+  {
+    "id": 23,
+    "productName": "pista2",
+    "price": "$7.0"
+  },
+  {
+    "id": 24,
+    "productName": "walnut2",
+    "price": "$8.0"
+  }
+]
